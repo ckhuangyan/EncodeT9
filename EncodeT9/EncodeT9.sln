@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncodeT9", "EncodeT9.csproj", "{77B86F20-9FE9-4E50-AA0C-036FBADC7570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77B86F20-9FE9-4E50-AA0C-036FBADC7570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B86F20-9FE9-4E50-AA0C-036FBADC7570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B86F20-9FE9-4E50-AA0C-036FBADC7570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B86F20-9FE9-4E50-AA0C-036FBADC7570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69BC415F-EFEB-44B9-95CD-F03D36DD4EE6}
+	EndGlobalSection
+EndGlobal
